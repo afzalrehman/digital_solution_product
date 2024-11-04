@@ -40,7 +40,7 @@ include_once("inc/sidebar.php");
                         </div>
 
                         <button type="submit" name="submit" class="btn btn-primary me-2">Submit</button>
-                        <a href="user.php" class="btn btn-secondary">Cancel</a>
+                        <a href="index.php" class="btn btn-secondary">Cancel</a>
                     </form>
 
                 </div>

@@ -11,7 +11,7 @@ include('inc/sidebar.php');
 
     <nav class="page-breadcrumb">
         <ol class="breadcrumb">
-            <li class="breadcrumb-item"><a href="user.php">User</a></li>
+            <li class="breadcrumb-item"><a href="index.php">User</a></li>
             <li class="breadcrumb-item active" aria-current="page">Product List</li> 
         </ol>
     </nav>
